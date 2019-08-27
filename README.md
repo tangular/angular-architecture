@@ -1,6 +1,6 @@
 # Angular Architecture
 
-This code sample demonstrates different Angular Architecture concepts. It's used in the Angular Architecture and Best Practices video course on Pluralsight (https://www.pluralsight.com/courses/angular-architecture-best-practices) and in the Angular Architecture and Best Practices instructor-led training course (https://codewithdan.com/products/angular-architecture). 
+This code sample demonstrates different Angular Architecture concepts. It's used in the Angular Architecture and Best Practices video course on Pluralsight (https://www.pluralsight.com/courses/angular-architecture-best-practices). 
 
 ## Running the Application
 
@@ -19,4 +19,4 @@ This code sample demonstrates different Angular Architecture concepts. It's used
 
 ## The Angular JumpStart Application
 
-You can find an example of an application that follows the rules in this course at https://github.com/DanWahlin/Angular-JumpStart
+You can find an example of an application that follows the rules in this course at https://github.com/tangular/Angular-JumpStart
